@@ -1,0 +1,8 @@
+{
+  "name": "beerlog",
+  "app_id": "7628b698",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
